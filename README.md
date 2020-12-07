@@ -1,5 +1,5 @@
 # MAGD 150 Projects
-    _Here are a few of the projects made for MAGD 150 in 2020 !_
+    _Here_
 
 
 # Header 1
